@@ -4,8 +4,13 @@
 
 ### Impact: <br> By creating an automated system showing dashboard in Power BI and using direct queries within PowerBI to connect with the MQSQL Server database, the team was able to overcome these challenges and gain real-time visibility into key metrics. This allowed them to easily compare performance across different locations and product lines, identify areas of strength and weakness, and make informed decisions to improve efficiency and profitability.
 
-as it allowed them to easily access and compare metrics from different locations and product lines in one place. By automating the process of gathering and analyzing data, the team was able to save a significant amount of time and effort that was previously spent on manual data collection
-<br><br>
-In addition, the creation of the dashboard allowed upper management to make more informed decisions, as they were able to view and analyze key metrics in real-time. This could potentially lead to improved efficiency and profitability for the business unit.
-<br><br>
-Overall, it sounds like this project was a success and provided a valuable tool for the global team to better understand their product performance and make data-driven decisions.
+### My learnings: <br> I worked with the global team to review and refine the dashboard, making updates and changes as needed based on their feedback. Once the dashboard was complete, I provided training to team members on how to use it and answered any questions they had. Overall, this was a challenging but rewarding project that allowed me to use my data analysis skills to help the global team better understand their product performance and make informed decisions which indeed saved a lot of manual hours.
+
+### Metrics were tracked for these locations: China, Mexico, Germany, Czech Republic
+
+### Dashboard:
+Database for dashboard is MYSQL Server Database which is coonected with Power BI using direct query. The dashboard is hosted on a sharepoint site which updates daily to show the real-time analysis.
+
+-----
+
+
